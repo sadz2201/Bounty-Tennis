@@ -8,7 +8,7 @@ We have always been fascinated about sports and stats. Arguments on the outcome 
 
 UCI has a great repository of datasets. We are sure you would have heard of them if not used some of them. Here's one on the 2013 Tennis Tournaments https://archive.ics.uci.edu/ml/datasets/Tennis+Major+Tournament+Match+Statistics
 
-Your task is to create 3 hypotheses based on the above dataset and validate or invalidate them. In a short [jupyter notebook](https://jupyter.org/] detail out your hypothesis, analysis process, experiments, modelling and final conclusion. Include relevant graphs and code. 
+Your task is to create 3 hypotheses based on the above dataset and validate or invalidate them. In a short [jupyter notebook](https://jupyter.org/) detail out your hypothesis, analysis process, experiments, modelling and final conclusion. Include relevant graphs and code. 
 
 Remember we are going to be looking for the following in your work:
  * How you think and how creative you are
